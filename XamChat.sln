@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamChat.Core", "XamChat.Core\XamChat.Core.csproj", "{034FE794-115A-441C-BC3A-9D3641315659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamChat.Tests", "XamChat.Tests\XamChat.Tests.csproj", "{2901CEED-15A5-4557-A8AA-D30E745E0764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{034FE794-115A-441C-BC3A-9D3641315659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{034FE794-115A-441C-BC3A-9D3641315659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{034FE794-115A-441C-BC3A-9D3641315659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{034FE794-115A-441C-BC3A-9D3641315659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2901CEED-15A5-4557-A8AA-D30E745E0764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2901CEED-15A5-4557-A8AA-D30E745E0764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2901CEED-15A5-4557-A8AA-D30E745E0764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2901CEED-15A5-4557-A8AA-D30E745E0764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
